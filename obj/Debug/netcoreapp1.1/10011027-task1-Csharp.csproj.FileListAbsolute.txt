@@ -1,0 +1,4 @@
+C:\Users\10011027\desktop\10011027-task1-Csharp\bin\Debug\netcoreapp1.1\10011027-task1-Csharp.deps.json
+C:\Users\10011027\desktop\10011027-task1-Csharp\bin\Debug\netcoreapp1.1\10011027-task1-Csharp.runtimeconfig.json
+C:\Users\10011027\desktop\10011027-task1-Csharp\bin\Debug\netcoreapp1.1\10011027-task1-Csharp.runtimeconfig.dev.json
+C:\Users\10011027\desktop\10011027-task1-Csharp\obj\Debug\netcoreapp1.1\10011027-task1-Csharp.AssemblyInfo.cs
